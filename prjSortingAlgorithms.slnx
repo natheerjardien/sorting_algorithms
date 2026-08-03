@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="prInsertionSort/prjInsertionSort.csproj" />
+  <Project Path="prjSortingAlgorithms/prjSortingAlgorithms.csproj" />
+</Solution>
